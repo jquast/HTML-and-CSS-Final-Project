@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: black;
+    background: white;
+    border: none;
+    box-shadow: none;
+    text-shadow: none;
+}
+
+body {
+    font-size: 12pt;
+}
+
+main {
+    display: block;
+    width: 100%;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+script {
+    display: none;
+}
+
+img {
+    display: none;
+}
